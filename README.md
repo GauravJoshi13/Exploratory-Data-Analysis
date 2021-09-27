@@ -1,4 +1,4 @@
-Exploratory Data Analysis With Python and Pandas is divided into following tasks:
+## Exploratory Data Analysis With Python and Pandas
 
 **Task 1: Initial Data Exploration**
 
